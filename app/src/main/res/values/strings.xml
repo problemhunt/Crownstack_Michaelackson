@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CrownStackTask</string>
+    <string name="title_activity_song_details">SongDetails</string>
+</resources>
